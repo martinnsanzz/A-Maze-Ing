@@ -70,9 +70,9 @@ This project must include a Makefile with the following rules:
 - `make fclean`: Remove venv and cache
 - `make wheel`: Builds .whl from src/mazegen package
 
----
 
-### 🐨 Result
+
+## 🐨 Result
 
 <tr>
     <td align="center">
