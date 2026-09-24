@@ -75,8 +75,8 @@ This project must include a Makefile with the following rules:
 ### 🐨 Result
 
 <tr>
-    <td>
-      <img src="assets_github/maze.gif" width="60%" style="display: block; margin: 0 auto;">
+    <td align="center">
+      <img src="assets_github/maze.gif" width="60%">
     </td>
 </tr>
 
