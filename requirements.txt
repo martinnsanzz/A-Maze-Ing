@@ -1,0 +1,5 @@
+pydantic
+pudb
+mypy
+flake8
+build
