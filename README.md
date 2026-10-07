@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/amazing.png" width="60%" alt="A_Maze_Ing">
+</p>
+
 <h3 align="center">
   <em>Create your own maze generator and display its result!</em>
 </h3>
@@ -76,7 +80,7 @@ This project must include a Makefile with the following rules:
 
 <tr>
     <td align="center">
-      <img src="assets_github/maze.gif" width="60%">
+      <img src="assets/maze.gif" width="60%">
     </td>
 </tr>
 
